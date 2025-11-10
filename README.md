@@ -103,14 +103,4 @@ pip install -r requirements.txt
 
 ---
 
-### 🧾 References
 
-* Assignment brief — *FAST-NUCES Deep Learning A2 (2025)*
-* Dataset — [Kaggle: Legal Clause Dataset](https://www.kaggle.com/datasets/bahushruth/legalclausedataset)
-* Keras Idiomatic Programmer Guide — [GoogleCloudPlatform/keras-idiomatic-programmer](https://github.com/GoogleCloudPlatform/keras-idiomatic-programmer)
-
----
-
-
-
-Would you like me to generate a matching `requirements.txt` (TensorFlow + Keras + core libs) and small `run_in_colab` code snippet block for your README too?
